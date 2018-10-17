@@ -31,7 +31,8 @@
  ##웹접근성
  > 장애와 비장애 모두를 만족시키기 위한 노력
 ## HTML 기본 문법  
- ++<!DOCTYPE html>
+ ``` html
+ <!DOCTYPE html>
 <html lang="ko-KR">
 
 <head>
@@ -46,10 +47,10 @@
 </body>
 
 </html>
-'''
+```
 ---
 
-'''css
+``` css
 @charset "utf-8";
 h1 {
     background-color: yellow;
@@ -58,5 +59,4 @@ h1 {
 p {
     background-color: pink;
 }
-'''
----
+```
